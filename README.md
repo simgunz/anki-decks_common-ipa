@@ -1,7 +1,10 @@
 IPA common concepts deck
 ========================
 
-Description goes here.
+This deck contains all the common symbols of the IPA (diacritics, pauses, etc.). It doesn't contain the sounds of the IPA,
+because it's better to learn them for each language since the IPA is usually adapted for each language.
+
+THIS DECK IS NOT YET COMPLETE.
 
 Building the deck
 =================
